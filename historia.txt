@@ -1,7 +1,3 @@
-Repasando git un día de lluvia a las 3:38 pm del día 25 de enero de 2020
+Repasando git y github
 
-Git es indispensable en entornos de código colaborativo
-
-Git demasiados cambios por hacer
-todo "Hacer footer"
-todo  "Hacer header"
+Reescribiendo la historia ...
