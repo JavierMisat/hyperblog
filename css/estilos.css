@@ -17,7 +17,7 @@ body{
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 60px;
 }
 
 #cabecera{
@@ -37,5 +37,5 @@ body{
 }
 
 #post{
-    padding: 1em;
+    padding: 20em;
 }
