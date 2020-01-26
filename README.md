@@ -9,5 +9,6 @@
 - [ ] Rebase
 - [x] Remotes
 - [x] CREADO POR JAVIER MISAT
+- [x] INCLUYE EJEMPLOS EN LINUX, WINDOWS Y MAC
 
 >Bien hecho es mejor que bien dicho.
