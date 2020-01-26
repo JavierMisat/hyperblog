@@ -10,5 +10,6 @@
 - [x] Remotes
 - [x] CREADO POR JAVIER MISAT
 - [x] INCLUYE EJEMPLOS EN LINUX, WINDOWS Y MAC
+- [x] Disponibles en todas las edades
 
 >Bien hecho es mejor que bien dicho.
